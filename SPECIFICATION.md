@@ -2,8 +2,10 @@
 
 Version 0.1 — Draft
 
-PureO is a statically typed programming language for the JVM that
-structurally enforces the Elegant Objects principles. What other
+PureO is a statically typed object programming language for the JVM
+that structurally enforces the Elegant Objects principles. It is not
+object-*oriented*: an orientation is a direction a program is free to
+ignore, while in PureO objects are the only grammar. What other
 languages leave to discipline — immutability, no null, no static
 methods, no getters — PureO makes impossible to violate: the compiler
 rejects such programs. Its syntax stays close to mainstream languages
