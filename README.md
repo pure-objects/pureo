@@ -7,7 +7,9 @@
 
 **A JVM language where object thinking is not a discipline — it is the grammar.**
 
-PureO structurally enforces the [Elegant Objects](https://www.elegantobjects.org)
+PureO is an object programming language — not an object-*oriented*
+one, because an orientation is something you are free to ignore.
+It structurally enforces the [Elegant Objects](https://www.elegantobjects.org)
 principles. What other languages leave to code reviews — immutability, no null,
 no static methods, no getters — PureO makes impossible to write: the compiler
 rejects such programs. Its syntax stays close to Java and Kotlin, so the ideas
